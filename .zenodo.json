@@ -11,6 +11,6 @@
   "license": "MIT",
   "keywords": ["drug response prediction", "explainable AI", "graph neural networks", "counterfactual explanations", "multi-omics", "GDSC", "DepMap", "interpretability audit"],
   "access_right": "open",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "language": "eng"
 }
