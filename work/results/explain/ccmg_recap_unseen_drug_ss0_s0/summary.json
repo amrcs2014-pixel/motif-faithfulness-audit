@@ -1,0 +1,18 @@
+{
+ "run": "ccmg_recap_unseen_drug_ss0_s0",
+ "model": "ccmg",
+ "vocab": "recap",
+ "split": "unseen_drug",
+ "split_seed": 0,
+ "seed": 0,
+ "n_probe": 2500,
+ "M": 11,
+ "G": 1141,
+ "n_edited_graphs": 440,
+ "time_s": 309.32878160476685,
+ "mean_abs_delta_del": 1.0345133543014526,
+ "mean_abs_delta_swap": 0.7416045069694519,
+ "mean_abs_delta_kd": 0.009569261223077774,
+ "frac_chem_valid": 0.8452134046501474,
+ "pert_pred_shift_rmse": 0.07668061554431915
+}

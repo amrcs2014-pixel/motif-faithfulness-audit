@@ -1,0 +1,19 @@
+{
+ "run": "ccmg_brics_random_ss0_s4_lr0.0003",
+ "model": "ccmg",
+ "vocab": "brics",
+ "split": "random",
+ "split_seed": 0,
+ "seed": 4,
+ "tag": "lr0.0003",
+ "n_probe": 2500,
+ "M": 18,
+ "G": 1141,
+ "n_edited_graphs": 648,
+ "time_s": 437.9095706939697,
+ "mean_abs_delta_del": 0.8016225695610046,
+ "mean_abs_delta_swap": 0.6860334873199463,
+ "mean_abs_delta_kd": 0.010802790522575378,
+ "frac_chem_valid": 0.8517997333728337,
+ "pert_pred_shift_rmse": 0.07306556403636932
+}

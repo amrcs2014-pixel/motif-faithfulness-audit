@@ -1,0 +1,18 @@
+{
+ "run": "ccmg_brics_unseen_cell_ss2_s2",
+ "model": "ccmg",
+ "vocab": "brics",
+ "split": "unseen_cell",
+ "split_seed": 2,
+ "seed": 2,
+ "n_probe": 2500,
+ "M": 18,
+ "G": 1141,
+ "n_edited_graphs": 648,
+ "time_s": 441.168176651001,
+ "mean_abs_delta_del": 0.7015555500984192,
+ "mean_abs_delta_swap": 0.696022629737854,
+ "mean_abs_delta_kd": 0.008429599925875664,
+ "frac_chem_valid": 0.8517997333728337,
+ "pert_pred_shift_rmse": 0.05832181125879288
+}

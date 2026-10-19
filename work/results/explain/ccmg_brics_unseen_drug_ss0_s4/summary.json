@@ -1,0 +1,18 @@
+{
+ "run": "ccmg_brics_unseen_drug_ss0_s4",
+ "model": "ccmg",
+ "vocab": "brics",
+ "split": "unseen_drug",
+ "split_seed": 0,
+ "seed": 4,
+ "n_probe": 2500,
+ "M": 18,
+ "G": 1141,
+ "n_edited_graphs": 648,
+ "time_s": 432.21324849128723,
+ "mean_abs_delta_del": 0.5035606622695923,
+ "mean_abs_delta_swap": 0.451082319021225,
+ "mean_abs_delta_kd": 0.007570239715278149,
+ "frac_chem_valid": 0.8517997333728337,
+ "pert_pred_shift_rmse": 0.05045772343873978
+}

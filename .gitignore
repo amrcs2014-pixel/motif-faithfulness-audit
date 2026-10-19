@@ -1,0 +1,13 @@
+# raw downloads (public; see README for sources) and large derived artefacts are not versioned
+work/data/raw/
+work/results/runs/*/model.pt
+work/results/runs/*/preds_test.npz
+work/results/runs/*/scaler.npz
+work/results/explain/*/scores.npz
+work/results/baselines/*_preds.npz
+work/logs/
+work/pylib/
+# manuscript sources are not distributed; build.py regenerates numbers.tex and the tables into work/paper/ locally
+work/paper/
+__pycache__/
+*.pyc

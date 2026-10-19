@@ -1,0 +1,63 @@
+vocab,drug,confidence,matched,n_atoms,n_motifs,n_pharm_motifs,frac_pharm_motifs,max_cover,smarts
+brics,Navitoclax,high,True,7,8,2,0.25,1.0,C(=O)NS(=O)(=O)c
+brics,Nilotinib,high,True,13,7,2,0.2857142857142857,1.0,Nc1nccc(-c2cccnc2)n1
+brics,Bosutinib,high,True,13,6,2,0.3333333333333333,1.0,N#Cc1cnc2ccccc2c1N
+brics,Axitinib,high,True,9,5,1,0.2,0.9,c1ccc2cnnc2c1
+brics,AZD7762,high,True,12,5,3,0.6,1.0,NC(=O)Nc1ccsc1C(=O)N
+brics,JNK Inhibitor VIII,medium,True,12,6,2,0.3333333333333333,1.0,N#Cc1c(N)cc(NC=O)nc1
+brics,Wee1 Inhibitor,high,True,12,6,2,0.3333333333333333,0.9166666666666666,O=c1ccc2cnc(N)nc2n1
+brics,Nutlin-3a (-),high,True,19,7,3,0.42857142857142855,1.0,C1(=NC(c2ccc(Cl)cc2)C(N1)c1ccc(Cl)cc1)
+brics,ZM447439,high,True,11,7,2,0.2857142857142857,1.0,Nc1ncnc2ccccc12
+brics,Selumetinib,high,True,9,4,1,0.25,1.0,Brc1ccc(N)c(Cl)c1
+brics,EHT-1864,low,True,10,5,1,0.2,1.0,c1ccc2ncccc2c1
+brics,Irinotecan,high,True,8,5,1,0.2,0.3076923076923077,CC[C;R](O)C(=O)O[CH2;R]
+brics,Rucaparib,high,True,5,3,1,0.3333333333333333,0.3333333333333333,[#6;R](=O)[NH;R][CH2;R][CH2;R]
+brics,Bortezomib,high,True,3,5,1,0.2,0.375,[B](O)O
+brics,Tamoxifen,high,True,5,4,2,0.5,0.23076923076923078,C(c)(c)=C(c)
+brics,EPZ004777,high,True,10,8,1,0.125,1.0,Nc1ncnc2nccc12
+brics,Pevonedistat,high,True,6,4,1,0.25,1.0,NS(=O)(=O)OC
+brics,Lapatinib,high,True,11,7,2,0.2857142857142857,1.0,Nc1ncnc2ccccc12
+brics,LGK974,medium,True,15,5,3,0.6,1.0,O=CNc1ccc(cn1)-c1cnccn1
+brics,PCI-34051,high,True,4,4,1,0.25,1.0,C(=O)NO
+brics,Selumetinib,high,True,9,4,1,0.25,1.0,Brc1ccc(N)c(Cl)c1
+brics,Afuresertib,medium,True,8,5,2,0.4,1.0,NC(=O)c1sccc1
+brics,AGI-5198,low,True,10,6,2,0.3333333333333333,1.0,Cc1nccn1CC(=O)N
+brics,Cediranib,high,True,10,5,1,0.2,0.9090909090909091,c1ncnc2ccccc12
+brics,GDC0810,high,True,5,3,2,0.6666666666666666,0.18181818181818182,C(c)(c)=C(c)
+brics,I-BRD9,low,True,12,4,2,0.5,1.0,CCn1ccc2sccc2c1=O
+brics,NVP-ADW742,high,True,10,6,1,0.16666666666666666,1.0,Nc1ncnc2nccc12
+brics,WIKI4,high,True,15,6,1,0.16666666666666666,1.0,O=C1[NX3]C(=O)c2cccc3cccc1c23
+brics,BIBR-1532,medium,True,12,4,3,0.75,1.0,OC(=O)c1ccccc1NC(=O)
+brics,AMG-319,high,True,9,4,1,0.25,1.0,c1ncnc2ncnc12
+brics,SGC0946,high,True,10,8,1,0.125,0.9090909090909091,Nc1ncnc2nccc12
+recap,Navitoclax,high,True,7,5,2,0.4,0.23529411764705882,C(=O)NS(=O)(=O)c
+recap,Nilotinib,high,True,13,3,2,0.6666666666666666,1.0,Nc1nccc(-c2cccnc2)n1
+recap,Bosutinib,high,True,13,3,1,0.3333333333333333,0.5,N#Cc1cnc2ccccc2c1N
+recap,Axitinib,high,True,9,3,1,0.3333333333333333,0.47368421052631576,c1ccc2cnnc2c1
+recap,AZD7762,high,True,12,4,3,0.75,1.0,NC(=O)Nc1ccsc1C(=O)N
+recap,JNK Inhibitor VIII,medium,True,12,3,2,0.6666666666666666,0.9090909090909091,N#Cc1c(N)cc(NC=O)nc1
+recap,Wee1 Inhibitor,high,True,12,5,1,0.2,0.6,O=c1ccc2cnc(N)nc2n1
+recap,Nutlin-3a (-),high,True,19,4,1,0.25,0.6785714285714286,C1(=NC(c2ccc(Cl)cc2)C(N1)c1ccc(Cl)cc1)
+recap,ZM447439,high,True,11,4,1,0.25,0.5238095238095238,Nc1ncnc2ccccc12
+recap,Selumetinib,high,True,9,3,1,0.3333333333333333,0.4090909090909091,Brc1ccc(N)c(Cl)c1
+recap,EHT-1864,low,True,10,3,1,0.3333333333333333,0.5,c1ccc2ncccc2c1
+recap,Irinotecan,high,True,8,4,1,0.25,0.27586206896551724,CC[C;R](O)C(=O)O[CH2;R]
+recap,Rucaparib,high,True,5,3,1,0.3333333333333333,0.3333333333333333,[#6;R](=O)[NH;R][CH2;R][CH2;R]
+recap,Bortezomib,high,True,3,3,1,0.3333333333333333,0.3333333333333333,[B](O)O
+recap,Tamoxifen,high,True,5,4,2,0.5,0.2222222222222222,C(c)(c)=C(c)
+recap,EPZ004777,high,True,10,6,1,0.16666666666666666,1.0,Nc1ncnc2nccc12
+recap,Pevonedistat,high,True,6,3,1,0.3333333333333333,0.5,NS(=O)(=O)OC
+recap,Lapatinib,high,True,11,4,1,0.25,0.5789473684210527,Nc1ncnc2ccccc12
+recap,LGK974,medium,True,15,4,3,0.75,1.0,O=CNc1ccc(cn1)-c1cnccn1
+recap,PCI-34051,high,True,4,3,2,0.6666666666666666,1.0,C(=O)NO
+recap,Selumetinib,high,True,9,3,1,0.3333333333333333,0.4090909090909091,Brc1ccc(N)c(Cl)c1
+recap,Afuresertib,medium,True,8,3,2,0.6666666666666666,0.875,NC(=O)c1sccc1
+recap,AGI-5198,low,True,10,4,3,0.75,1.0,Cc1nccn1CC(=O)N
+recap,Cediranib,high,True,10,3,1,0.3333333333333333,0.4,c1ncnc2ccccc12
+recap,GDC0810,high,True,5,3,2,0.6666666666666666,0.18181818181818182,C(c)(c)=C(c)
+recap,I-BRD9,low,True,12,3,2,0.6666666666666666,1.0,CCn1ccc2sccc2c1=O
+recap,NVP-ADW742,high,True,10,5,1,0.2,1.0,Nc1ncnc2nccc12
+recap,WIKI4,high,True,15,3,1,0.3333333333333333,1.0,O=C1[NX3]C(=O)c2cccc3cccc1c23
+recap,BIBR-1532,medium,True,12,3,2,0.6666666666666666,1.0,OC(=O)c1ccccc1NC(=O)
+recap,AMG-319,high,True,9,3,1,0.3333333333333333,0.9,c1ncnc2ncnc12
+recap,SGC0946,high,True,10,6,1,0.16666666666666666,0.9090909090909091,Nc1ncnc2nccc12

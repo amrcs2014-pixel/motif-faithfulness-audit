@@ -1,0 +1,28 @@
+{
+ "test": {
+  "n": 20796,
+  "rmse": 2.2617520614722455,
+  "pearson": 0.3688298987034954,
+  "spearman": 0.40984399978075675,
+  "per_drug_pearson": 0.6497012469691049,
+  "n_drug_groups": 30,
+  "per_cell_pearson": NaN,
+  "n_cell_groups": 537
+ },
+ "probe": {
+  "n": 2500,
+  "rmse": 2.256590709597445,
+  "pearson": 0.31177329044954266,
+  "spearman": 0.3573536300918777,
+  "per_drug_pearson": 0.5756891606787683,
+  "n_drug_groups": 30,
+  "per_cell_pearson": NaN,
+  "n_cell_groups": 57
+ },
+ "name": "naive_unseen_drug_ss3_s0",
+ "model": "naive",
+ "vocab": "none",
+ "split": "unseen_drug",
+ "seed": 0,
+ "split_seed": 3
+}

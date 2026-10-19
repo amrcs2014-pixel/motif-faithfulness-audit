@@ -1,0 +1,18 @@
+{
+ "run": "ccmg_recap_random_ss0_s1",
+ "model": "ccmg",
+ "vocab": "recap",
+ "split": "random",
+ "split_seed": 0,
+ "seed": 1,
+ "n_probe": 2500,
+ "M": 11,
+ "G": 1141,
+ "n_edited_graphs": 440,
+ "time_s": 300.1214098930359,
+ "mean_abs_delta_del": 1.1082371473312378,
+ "mean_abs_delta_swap": 0.8092371821403503,
+ "mean_abs_delta_kd": 0.007547308225184679,
+ "frac_chem_valid": 0.8452134046501474,
+ "pert_pred_shift_rmse": 0.054051950573921204
+}

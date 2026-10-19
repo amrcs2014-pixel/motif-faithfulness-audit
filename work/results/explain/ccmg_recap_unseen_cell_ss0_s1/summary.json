@@ -1,0 +1,18 @@
+{
+ "run": "ccmg_recap_unseen_cell_ss0_s1",
+ "model": "ccmg",
+ "vocab": "recap",
+ "split": "unseen_cell",
+ "split_seed": 0,
+ "seed": 1,
+ "n_probe": 2500,
+ "M": 11,
+ "G": 1141,
+ "n_edited_graphs": 440,
+ "time_s": 309.2636694908142,
+ "mean_abs_delta_del": 1.0116063356399536,
+ "mean_abs_delta_swap": 0.7507295608520508,
+ "mean_abs_delta_kd": 0.007923201657831669,
+ "frac_chem_valid": 0.8452134046501474,
+ "pert_pred_shift_rmse": 0.057660650461912155
+}

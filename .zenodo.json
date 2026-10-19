@@ -1,0 +1,16 @@
+{
+  "title": "motif-faithfulness-audit: code, processed data and results of a stability and counterfactual audit of motif-level explanations in cell-conditioned multi-omics drug response prediction",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Abdelhaliem, Amr H.",
+      "affiliation": "Department of Cyber Security, Faculty of Science and Information Technology, Irbid National University, Irbid, Jordan"
+    }
+  ],
+  "description": "<p>Reproducible pipeline, processed dataset (GDSC2 release 8.5 x DepMap 24Q2: 148,670 drug-cell pairs, 241 drugs, 704 cell lines, 1,141-gene panel), split indices and summary results of a stability and counterfactual audit of motif-level explanations produced by a CCMG-class (cell-conditioned motif graph) model for drug response prediction. Five motif-level explainers (attention, rollout, integrated gradients, masking, GNNExplainer-style masks) and four gene-level explainers are scored for seed, regime and input-noise stability, for faithfulness against input-space counterfactuals (motif deletion and swap, gene knockdown) and against drug-target biology, inside a DrEval-style protocol with naive and tree-ensemble baselines; attention-head, entropy and tuning controls, positive-control biomarkers, curated pharmacophores and a planted-importance sanity check are included. Raw DepMap and GDSC downloads are not redistributed (see README).</p>",
+  "license": "MIT",
+  "keywords": ["drug response prediction", "explainable AI", "graph neural networks", "counterfactual explanations", "multi-omics", "GDSC", "DepMap", "interpretability audit"],
+  "access_right": "open",
+  "version": "1.0.0",
+  "language": "eng"
+}

@@ -1,0 +1,40 @@
+{
+ "test": {
+  "n": 20796,
+  "rmse": 2.406449385423686,
+  "pearson": 0.2737527878763769,
+  "spearman": 0.3197554250230843,
+  "per_drug_pearson": 0.6534054179002403,
+  "n_drug_groups": 30,
+  "per_cell_pearson": 0.08255798533253692,
+  "n_cell_groups": 701
+ },
+ "probe": {
+  "n": 2500,
+  "rmse": 2.434425741049982,
+  "pearson": 0.19945757465231503,
+  "spearman": 0.24861152897757804,
+  "per_drug_pearson": 0.5791709839150874,
+  "n_drug_groups": 30,
+  "per_cell_pearson": 0.05885317118910404,
+  "n_cell_groups": 100
+ },
+ "name": "lgbm_unseen_drug_ss2_s2",
+ "model": "lgbm",
+ "vocab": "none",
+ "split": "unseen_drug",
+ "seed": 2,
+ "split_seed": 2,
+ "cfg": {
+  "num_leaves": 63,
+  "learning_rate": 0.03,
+  "feature_fraction": 0.2,
+  "bagging_fraction": 0.6,
+  "min_child_samples": 50,
+  "lambda_l2": 20.0
+ },
+ "iters": 160,
+ "val_rmse": 2.660702167381676,
+ "train_time_s": 47.56760573387146,
+ "n_features": 2617
+}
