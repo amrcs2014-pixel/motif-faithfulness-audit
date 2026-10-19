@@ -10,6 +10,14 @@ version: "1.0.3"
 date-released: "2026-10-20"
 license: MIT
 repository-code: "https://github.com/amrcs2014-pixel/motif-faithfulness-audit"
+doi: "10.5281/zenodo.23484446"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23484446"
+    description: "Zenodo concept DOI (all versions)"
+  - type: doi
+    value: "10.5281/zenodo.23484447"
+    description: "Zenodo DOI of release v1.0.3"
 keywords:
   - drug response prediction
   - explainable AI

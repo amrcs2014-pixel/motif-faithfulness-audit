@@ -1,5 +1,6 @@
 # motif-faithfulness-audit
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23484446.svg)](https://doi.org/10.5281/zenodo.23484446)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-ee4c2c.svg)](https://pytorch.org/)
@@ -81,6 +82,8 @@ psutil (`requirements.txt`). All runs were executed on a single NVIDIA GeForce G
 ## Citation
 
 See [CITATION.cff](CITATION.cff). Please cite the paper once it is published; until then cite this repository.
+
+The repository is archived in Zenodo. The concept DOI [10.5281/zenodo.23484446](https://doi.org/10.5281/zenodo.23484446) always resolves to the latest version; release v1.0.3, the version used for the paper, has DOI [10.5281/zenodo.23484447](https://doi.org/10.5281/zenodo.23484447).
 
 ## License
 
